@@ -1,0 +1,39 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+header.landing {
+	background-position: center;
+  	background-image: url("trail.jpeg");
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	height: 100%;
+}
+
+.page-message {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Markazi Text', serif;
+	color: white;
+	margin-top: 500px;
+}
+
+hr {
+	max-width: 65px;
+ 	border-width: 3px;
+}
+
+.btn {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+header.landing hr {
+	margin-top: 100px;
+  	margin-bottom: 30px;
+}
